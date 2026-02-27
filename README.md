@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Camilo
 
-<!--
-**RawBud11/RawBud11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+🚲 Currently building *UrbanRide: an urban mobility system (bike/scooter sharing) in **Java* using *Object-Oriented Design*.
 
-Here are some ideas to get you started:
+## 🧩 What is UrbanRide?
+UrbanRide models a shared mobility service:
+- Users can register and rent vehicles (bike/scooter)
+- The system manages stations, availability and rentals
+- It calculates fees, validates rules and tracks usage history
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏗️ Current Focus
+- Designing the domain model with UML (classes + relationships)
+- Implementing core logic in Java (clean OOP)
+- Adding automated tests with JUnit
+
+## 🔧 Tech Stack
+- Java (OOP)
+- Git & GitHub
+- UML (class diagrams)
+- JUnit (testing)
+
+## 🚀 Roadmap
+- [ ] Core domain model (User, Vehicle, Station, Rental)
+- [ ] Rental rules + fee calculation
+- [ ] Persistence (file or database later)
+- [ ] Simple GUI (Swing/JavaFX)
+
+📍 Manizales, Colombia
