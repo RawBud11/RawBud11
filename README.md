@@ -1,29 +1,29 @@
-# 👋 Hi, I'm Camilo
+# Camilo Jaime
 
-🎓 Computer Science student  
-🚲 Currently building *UrbanRide: an urban mobility system (bike/scooter sharing) in **Java* using *Object-Oriented Design*.
+I build AI support assistants and Python automation for small teams, in English and Spanish.
 
-## 🧩 What is UrbanRide?
-UrbanRide models a shared mobility service:
-- Users can register and rent vehicles (bike/scooter)
-- The system manages stations, availability and rentals
-- It calculates fees, validates rules and tracks usage history
+Before writing software I spent 3 years answering customers in banking support, so I build tools for the person who has to use them at 4 pm on a bad day.
 
-## 🏗️ Current Focus
-- Designing the domain model with UML (classes + relationships)
-- Implementing core logic in Java (clean OOP)
-- Adding automated tests with JUnit
+## What I build
 
-## 🔧 Tech Stack
-- Java (OOP)
-- Git & GitHub
-- UML (class diagrams)
-- JUnit (testing)
+- **Support assistants** that answer only from your help centre, cite the article, and hand off to a person when they are not sure.
+- **Python automation and CLI tools**: reports, audits and scheduled jobs, with tests.
+- **Fast marketing sites** in Next.js and TypeScript.
 
-## 🚀 Roadmap
-- [ ] Core domain model (User, Vehicle, Station, Rental)
-- [ ] Rental rules + fee calculation
-- [ ] Persistence (file or database later)
-- [ ] Simple GUI (Swing/JavaFX)
+## Work
 
-📍 Manizales, Colombia
+**[AnswerDesk](https://github.com/RawBud11/answerdesk)** (in progress): a support chat widget that answers from a help centre, cites its sources and says "I don't know" when it should.
+FastAPI, PostgreSQL with pgvector, English and Spanish evaluation set.
+
+**[PINN for 1D diffusion](https://github.com/RawBud11/pinn-1d-diffusion-inverse)**: a physics-informed neural network that recovers an unknown diffusion coefficient from noisy data with 0.17% error.
+Python, TensorFlow.
+
+## How I work
+
+- You get a written plan and a fixed first milestone before I start.
+- Every project ships with tests, a README and a runbook, so you are not locked in to me.
+- I use AI coding tools, and I review, test and can explain every line I deliver.
+
+## Contact
+
+[Upwork profile](https://www.upwork.com/freelancers/~01493c97f7e81be60b) · Manizales, Colombia (UTC-5, overlaps US business hours)
