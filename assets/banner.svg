@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" width="1280" height="340" role="img" aria-label="Camilo Jaime. AI support assistants and Python automation.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1b2a"/>
+      <stop offset="1" stop-color="#12343b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#fbbf24"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#ffffff" opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="340" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="340" rx="18" fill="url(#dots)"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <rect x="72" y="56" width="64" height="6" rx="3" fill="url(#accent)"/>
+    <text x="72" y="126" font-size="64" font-weight="700" fill="#f8fafc" letter-spacing="-1">Camilo Jaime</text>
+    <text x="72" y="172" font-size="27" fill="#cbd5e1">AI support assistants and Python automation</text>
+    <text x="72" y="207" font-size="27" fill="#cbd5e1">for small teams</text>
+    <g font-size="17" font-weight="600" fill="#0d1b2a">
+      <rect x="72" y="244" width="178" height="38" rx="19" fill="#5eead4"/>
+      <text x="161" y="269" text-anchor="middle">English · Español</text>
+      <rect x="262" y="244" width="278" height="38" rx="19" fill="#e2e8f0"/>
+      <text x="401" y="269" text-anchor="middle">3 years in customer support</text>
+      <rect x="552" y="244" width="262" height="38" rx="19" fill="#e2e8f0"/>
+      <text x="683" y="269" text-anchor="middle">UTC-5 · US business hours</text>
+    </g>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">
+    <rect x="850" y="62" width="358" height="216" rx="12" fill="#0b1220" stroke="#334155"/>
+    <circle cx="874" cy="84" r="5" fill="#f87171"/><circle cx="892" cy="84" r="5" fill="#fbbf24"/><circle cx="910" cy="84" r="5" fill="#34d399"/>
+    <text x="872" y="128" fill="#94a3b8">customer:</text>
+    <text x="872" y="153" fill="#f8fafc">Can I return a jacket?</text>
+    <text x="872" y="192" fill="#5eead4">assistant:</text>
+    <text x="872" y="217" fill="#f8fafc">Yes, within 30 days. [1]</text>
+    <text x="872" y="254" fill="#94a3b8">[1] Returns policy</text>
+  </g>
+</svg>
