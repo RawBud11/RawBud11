@@ -1,5 +1,11 @@
 **I build weekly reports, SLA trackers, and ticket triage tools for bilingual support teams (EN/ES).**
 
+## Bilingual support demos
+
+- **[Ticket Analytics](https://github.com/RawBud11/bilingual-ticket-analytics)** turns a helpdesk CSV into a weekly report on volume, response times, and backlog by language.
+- **[SLA Tracker](https://github.com/RawBud11/bilingual-sla-tracker)** flags Google Sheets tickets nearing their response deadline and generates an EN/ES digest.
+- **[Ticket Triage](https://github.com/RawBud11/bilingual-ticket-triage)** suggests a queue and urgency for each ticket and flags uncertain cases for human review.
+
 <p align="center">
   <img src="assets/banner.svg" alt="Camilo Jaime. Three years answering the calls. Now I build what prevents them." width="100%">
 </p>
