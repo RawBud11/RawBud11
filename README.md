@@ -1,3 +1,5 @@
+**I build weekly reports, SLA trackers, and ticket triage tools for bilingual support teams (EN/ES).**
+
 <p align="center">
   <img src="assets/banner.svg" alt="Camilo Jaime. Three years answering the calls. Now I build what prevents them." width="100%">
 </p>
